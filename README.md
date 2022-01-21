@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: contact me through email: alejandrosoumah@hotmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm half Spanish half Guinean!
--->
 
 
 I'm passionate with Data Science and AI I'm currently a studing in USA and have a large array of projects in data science, neural networks and more...
