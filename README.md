@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on commenting all my code!
-- 👯 I’m looking to collaborate on using transformers for the use of 
+- 👯 I’m looking to collaborate on using transformers for the use of rice stock prediction
 - 🤔 I’m looking for help with readme's in Github
 - 💬 Ask me about Convolutional Neural Networks
 - 📫 How to reach me: contact me through email: alejandrosoumah@hotmail.com
